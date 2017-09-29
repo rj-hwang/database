@@ -73,5 +73,6 @@
 
 ## 参考
 
+- [Mysql 脚本收集](http://rongjih.blog.163.com/blog/static/3357446120114623715117)
 - [Mysql 官方安装教程（绿色版）](https://dev.mysql.com/doc/refman/5.7/en/windows-install-archive.html)
 - [Mysql 时区设置](https://stackoverflow.com/questions/930900/how-do-i-set-the-time-zone-of-mysql)
